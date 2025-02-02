@@ -2,7 +2,7 @@
 
 ## Created an iOS App for retrieving and displaying weather details using the Tomorrow.io API.
 
-## Tech Stack
+## 🔹Tech Stack
 
 **Frontend:** Swift, SwiftUI, UIKit
 
@@ -15,7 +15,7 @@
 - SwiftSpinner: Loading spinner
 - HighCharts: Implementing charts for data visualization
 
-## APIs Used
+## 🔹APIs Used
 
 1. **Tomorrow.io API** - Fetches real-time and forecast weather data.
 2. **Google Places Autocomplete API** - Provides search suggestions for cities.
@@ -23,7 +23,7 @@
 4. **MongoDB Atlas** - Stores user-favorited locations in a cloud database.
 5. **Twitter (X) Share API** - Allows users to share weather updates on X (Twitter).
 
-## Features
+## 🔹Features
 
 ### 1. **User Location-Based Weather Search**
    - Automatically fetches weather data based on the user’s current location.
@@ -67,6 +67,6 @@
    - Stores user-favorite locations in **MongoDB Atlas** for cross-device sync.
    - Communicates with the backend via **asynchronous HTTP requests**.
      
-## **View Demo**
+## 🔹**View Demo**
 - https://github.com/user-attachments/assets/28f4bd00-2a7c-4069-b43d-db6fbd9a5540
   
