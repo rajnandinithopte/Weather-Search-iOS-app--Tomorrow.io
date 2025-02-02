@@ -69,4 +69,8 @@
      
 ## 🔹**View Demo**
 - https://github.com/user-attachments/assets/28f4bd00-2a7c-4069-b43d-db6fbd9a5540
+
+## 📌 Note
+The full source code for this project is not publicly available.  
+If you are interested in accessing the code, please feel free to **request it** by contacting me.
   
