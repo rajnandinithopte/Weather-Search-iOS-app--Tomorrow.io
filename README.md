@@ -67,6 +67,6 @@
    - Stores user-favorite locations in **MongoDB Atlas** for cross-device sync.
    - Communicates with the backend via **asynchronous HTTP requests**.
      
-### 8. **View Demo**
+## **View Demo**
 - https://github.com/user-attachments/assets/28f4bd00-2a7c-4069-b43d-db6fbd9a5540
   
